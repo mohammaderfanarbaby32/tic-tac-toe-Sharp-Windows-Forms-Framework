@@ -1,0 +1,123 @@
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.ResolveComReference.cache
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\mohammad\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form6.resources
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.ResolveComReference.cache
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\bin\Debug\Interop.WMPLib.dll
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\bin\Debug\AxInterop.WMPLib.dll
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\Interop.WMPLib.dll
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\AxInterop.WMPLib.dll
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.ResolveComReference.cache
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+I:\hard windows\vsiual2\New folder (2)\_\GAME Terx\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\mohammad\Desktop\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.ResolveComReference.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\New folder\sore Code doos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\Interop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.ResolveComReference.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\mohammad\Desktop\New folder\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+D:\sore Code doos V\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\sore Code doos V\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\sore Code doos V\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\sore Code doos V\WindowsFormsApp6\bin\Debug\DevComponents.DotNetBar2.xml
+D:\sore Code doos V\WindowsFormsApp6\bin\Debug\Interop.WMPLib.dll
+D:\sore Code doos V\WindowsFormsApp6\bin\Debug\AxInterop.WMPLib.dll
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\Interop.WMPLib.dll
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\AxInterop.WMPLib.dll
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.ResolveComReference.cache
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\sore Code doos V\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
